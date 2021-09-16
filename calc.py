@@ -1,4 +1,4 @@
-def sum_function(n1,n2):#add two number
+def sum_function(n1,n2):
     return n1+n2
 
 
