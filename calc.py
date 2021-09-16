@@ -1,4 +1,4 @@
-def sum_function(n1,n2):
+def sum_function(n1,n2):#주석파일 수정 전
     return n1+n2
 
 
